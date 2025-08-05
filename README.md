@@ -1,1 +1,1 @@
-# Web-Based-Bidding-and-Selling-Platform
+# Web-Based-Bidding-Platform
